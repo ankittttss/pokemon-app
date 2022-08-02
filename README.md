@@ -32,7 +32,3 @@ running the project
  - [React-Redux](https://react-redux.js.org/)
  - [Material UI](https://mui.com/pt/)
 
-
-## Authors
-
-- [Omar Trigui](https://github.com/Omar-Trigui)
